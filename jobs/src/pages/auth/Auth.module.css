@@ -1,0 +1,11 @@
+.container {
+  width: 245px;
+  margin-top: 60px;
+  display: flex;
+  box-shadow: 10px 10px 38px -4px rgba(0, 0, 0, 0.61);
+  text-align: center;
+  border-radius: 10px;
+}
+.btn {
+  margin: 20px auto;
+}

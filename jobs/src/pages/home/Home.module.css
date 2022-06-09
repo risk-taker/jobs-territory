@@ -1,0 +1,32 @@
+.coffee {
+  color: #cdda3c;
+  margin-top: 16px;
+  font-size: 64px;
+}
+
+.tired {
+  display: flex;
+  justify-content: space-between;
+  width: 1200px;
+  max-width: 90%;
+  margin: 64px auto;
+  font-size: larger;
+}
+
+.tiredMargin {
+  margin: 48px 16px 0 0;
+}
+
+.hero {
+  margin-left: 16px;
+  width: 500px;
+  max-width: 90%;
+}
+
+.coffeeMargin {
+  margin-top: 16px;
+}
+
+.text {
+  margin-top: 48px;
+}

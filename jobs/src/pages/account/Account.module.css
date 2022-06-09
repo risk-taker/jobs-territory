@@ -1,0 +1,13 @@
+.cardWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6rem;
+}
+
+.card {
+  border-radius: 6px;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 10px 10px 38px -4px rgba(0, 0, 0, 0.61);
+}
